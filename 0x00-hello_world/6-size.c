@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/**
+ * main - Startng method
+ *
+ * Return: ends with success
+ */
 int main(void)
 {
 	int a;
