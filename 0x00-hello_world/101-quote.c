@@ -3,7 +3,7 @@
 
 /**
  * main - start method
- * Return: exit success
+ * Return: exit with success
  */
 int main(void)
 {
