@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-*/
-	Using Printf function
+/**
+*	Using Printf function
 */
 int main(void)
 {
