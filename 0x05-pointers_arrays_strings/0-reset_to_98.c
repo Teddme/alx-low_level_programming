@@ -3,7 +3,7 @@
 /**
  * reset_to_98 - reset to 98
  * pointer
- * @n - pointer n
+ * @n: pointer int n
  */
 void reset_to_98(int *n)
 {
