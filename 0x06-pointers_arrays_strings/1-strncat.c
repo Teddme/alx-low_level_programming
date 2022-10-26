@@ -1,9 +1,10 @@
 #include "main.h"
 
 /**
- * strcat - concat strings
+ * _strncat - concat strings
  * @src: pointer to 1st part
  * @dest: pointer to last part
+ * @n: int num
  * Return: A pointer to the resulting string dest.
  */
 char *_strncat(char *dest, char *src, int n)
