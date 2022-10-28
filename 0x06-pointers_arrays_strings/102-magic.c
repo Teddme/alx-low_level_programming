@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void)
+int main(void) // main : the main function
 {
 int n;
 int a[5];
