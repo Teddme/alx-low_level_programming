@@ -2,8 +2,8 @@
 
 /**
  * strcat - concat strings
- * @src: pointer to 1st part
  * @dest: pointer to last part
+ * @src: pointer to 1st part
  *
  * Return: exit with return of concatnated text
  */
