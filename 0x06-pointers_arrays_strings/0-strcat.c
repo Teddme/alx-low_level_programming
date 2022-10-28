@@ -7,7 +7,7 @@
  *
  * Return: exit with return of concatnated text
  */
-char *_strcat(char *dest, char *src);
+char *_strcat(char *dest, char *src)
 {
 	int index = 0, dest_len = 0;
 
