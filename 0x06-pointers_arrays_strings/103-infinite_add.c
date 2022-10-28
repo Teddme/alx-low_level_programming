@@ -11,16 +11,16 @@
  */
 char *infinite_add(char *n1, char *n2, char *r, int size_r)
 {
-if (*n1 != NULL and  *n2 != NULL)
-{
-	r=*n1+*n2;
+	if (*n1 != NULL and  *n2 != NULL)
+	{
+		r=*n1+*n2;
 	}
-if(r)
-{
-	return r;
-}
-else
-{
-	return 0;
-}
+	if(r)
+	{
+		return r;
+	}
+	else
+	{
+		return 0;
+	}
 }
