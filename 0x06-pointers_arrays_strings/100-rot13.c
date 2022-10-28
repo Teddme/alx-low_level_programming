@@ -1,15 +1,10 @@
-/*
- * File: 8-rot13.c
- * Auth: Brennan D Baraban
- */
-
-#include "holberton.h"
+#include "main.h"
 
 /**
- * rot13 - Encodes a string using rot13.
- * @str: The string to be encoded.
+ * rot13 -methods to encode string
+ * @str: input string
  *
- * Return: A pointer to the encoded string.
+ * Return: return a result
  */
 char *rot13(char *str)
 {
