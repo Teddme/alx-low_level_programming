@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * display english alphabets
+ * print_alphabet - display alphabets.
  */
 void print_alphabet(void)
 {
