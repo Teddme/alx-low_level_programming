@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * memset - ptr method.
+ * _memset - ptr method.
  * @s: ptr to be filled.
- * @c: char input
+ * @b: char input
  * @n: # of bytes.
  *
  * Return: A ptr.
