@@ -7,7 +7,6 @@
  * @b : pt input b 
  * 
  * @n : size of pt 
-
 */
 
 char *_memset(char *s, char b, unsigned int n)
