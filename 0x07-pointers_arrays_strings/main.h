@@ -6,3 +6,4 @@
 
 int _putchar(char c);
 char *_strcat(char *dest, char *src);
+void set_string(char **s, char *to);
