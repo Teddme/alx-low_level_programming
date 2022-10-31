@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _strspn - method 
+ * _strspn - method.
  * @s: input searched.
  * @accept: eval.
  *
