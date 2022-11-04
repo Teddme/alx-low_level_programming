@@ -2,7 +2,7 @@
 
 /**
  * _islower - cks is lower
- * @c: input str
+ * @c: input strs
  *
  * Return: 1 for lower and 0 for other.
  */
