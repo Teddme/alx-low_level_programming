@@ -11,7 +11,7 @@
  *
  * Return: Always 0.
  */
-void _puts(char *s);
+void _puts(char *s)
 {
 	puts("\"Programming is like building a multilingual puzzle");
 
