@@ -1,12 +1,11 @@
 #include "main.h"
 #include <stdlib.h>
 
-/*
- * _strdup- methd ret a ptr jjjj
- **_strdup: method name
- * @str: input.
+/**
+ * _strdup - Returns a pointer 
+ * @str: input
  *
- * Return: rslt.
+ * Return: rslt
  */
 
 char *_strdup(char *str)
