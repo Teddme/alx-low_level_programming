@@ -2,10 +2,13 @@
 #include <stdlib.h>
 
 /*
- * _strdup - Returns a ptr
+ * _strdup- methd ret a ptr jjjj
+ **_strdup: method name
  * @str: input.
+ *
  * Return: rslt.
  */
+
 char *_strdup(char *str)
 {
 	char *duplicate;
