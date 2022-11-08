@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * _strdup - Returns a pointer 
+ * _strdup - Returns a pointer
  * @str: input
  *
  * Return: rslt
