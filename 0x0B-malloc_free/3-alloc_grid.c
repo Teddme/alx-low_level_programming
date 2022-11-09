@@ -90,4 +90,4 @@ int **alloc_grid(int width, int height)
 
 	return (twoD);
 }
->>>>>>> 0c3aad24241a2a6239e11545d8a1632a0a7f638f
+a6239e11545d8a1632a0a7f638f
