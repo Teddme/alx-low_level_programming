@@ -34,4 +34,3 @@ void free_grid(int **grid, int height)
 
 	free(grid);
 }
->>>>>>> 0c3aad24241a2a6239e11545d8a1632a0a7f638f
