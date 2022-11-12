@@ -8,6 +8,7 @@
  *
  * Return: rslt.
  */
+
 char *argstostr(int ac, char **av)
 {
 	char *str;
@@ -33,7 +34,6 @@ char *argstostr(int ac, char **av)
 	{
 		for (byte = 0; av[arg][byte]; byte++)
 			str[index++] = av[arg][byte];
-
 		str[index++] = '\n';
 	}
 
@@ -41,3 +41,4 @@ char *argstostr(int ac, char **av)
 
 	return (str);
 }
+
